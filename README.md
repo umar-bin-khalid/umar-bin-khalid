@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/umar-bin-khalid-1bb878104/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-### :man_technologist: &nbsp;About Me :
+:man_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer from Pakistan.
 
@@ -38,7 +38,7 @@ I am a Full Stack Developer from Pakistan.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=umar-bin-khalid&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-bin-khalid&layout=compact&theme=vision-friendly-dark)]
-
+(https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### ✍️ Fun Facts : 
