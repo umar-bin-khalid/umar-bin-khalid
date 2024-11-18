@@ -36,7 +36,9 @@ I am a Full Stack Developer from Pakistan.
 ---
 
 ### 🔥 &nbsp; My Tech Stats :
-<a href="http://github-readme-streak-stats.herokuapp.com?user=umar-bin-khalid&theme=dark"> </a>
+<p align="left">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=umar-bin-khalid&theme=dark"/></a>
+</p>
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umar-bin-khalid&theme=react&line_height=40&hide=css"/> </a>
 ---
